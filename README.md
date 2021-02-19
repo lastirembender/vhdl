@@ -7,3 +7,6 @@
 
 ## 3-4 Bit Adder
 <img src="https://user-images.githubusercontent.com/69118634/107610546-e7fa7100-6c52-11eb-9b20-a2635d6e6b00.png" width="80%"></img> 
+
+## 4-4 Bit Comparator
+<img src="https://user-images.githubusercontent.com/69118634/108509510-61870480-72ce-11eb-94c9-e247ef83f1b7.jpg" width="80%"></img> 
