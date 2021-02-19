@@ -10,3 +10,6 @@
 
 ## 4-4 Bit Comparator
 <img src="https://user-images.githubusercontent.com/69118634/108509510-61870480-72ce-11eb-94c9-e247ef83f1b7.jpg" width="80%"></img> 
+
+## 5-2x4 Decoder
+<img src="https://user-images.githubusercontent.com/69118634/108512993-03105500-72d3-11eb-98a9-540b8062350e.jpg" width="80%"></img> 
